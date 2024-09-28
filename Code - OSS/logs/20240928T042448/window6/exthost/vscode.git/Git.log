@@ -1,0 +1,86 @@
+2024-09-28 06:26:18.151 [info] [main] Log level: Info
+2024-09-28 06:26:18.151 [info] [main] Validating found git in: "git"
+2024-09-28 06:26:18.151 [info] [main] Using git "2.46.2" from "git"
+2024-09-28 06:26:18.151 [info] [Model][doInitialScan] Initial repository scan started
+2024-09-28 06:26:18.151 [info] > git rev-parse --show-toplevel [4ms]
+2024-09-28 06:26:18.151 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-09-28 06:26:18.151 [info] [Model][openRepository] Opened repository: /home/jasi/.config
+2024-09-28 06:26:18.151 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-09-28 06:26:18.152 [info] > git config --get commit.template [3ms]
+2024-09-28 06:26:18.161 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-09-28 06:26:18.188 [info] > git status -z -uall [20ms]
+2024-09-28 06:26:18.209 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2024-09-28 06:26:18.215 [info] > git config --get commit.template [10ms]
+2024-09-28 06:26:18.234 [info] > git config --local branch.main.vscode-merge-base [20ms]
+2024-09-28 06:26:18.234 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-28 06:26:18.246 [info] > git reflog main --grep-reflog=branch: Created from *. [6ms]
+2024-09-28 06:26:18.250 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-09-28 06:26:18.251 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-09-28 06:26:18.251 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-28 06:26:18.261 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2024-09-28 06:26:18.297 [info] > git status -z -uall [37ms]
+2024-09-28 06:26:18.303 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [37ms]
+2024-09-28 06:26:18.312 [info] > git diff --name-status -z --diff-filter=ADMR d794d5ff440e446fc6c49077a1479975bc9a215d...refs/remotes/origin/main [4ms]
+2024-09-28 06:26:18.312 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2024-09-28 06:26:18.318 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-09-28 06:26:18.318 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-28 06:26:18.325 [info] > git reflog main --grep-reflog=branch: Created from *. [4ms]
+2024-09-28 06:26:18.329 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-09-28 06:26:18.331 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-28 06:26:18.448 [info] > git show --textconv :READ.md [6ms]
+2024-09-28 06:26:18.450 [info] > git ls-files --stage -- /home/jasi/.config/READ.md [3ms]
+2024-09-28 06:26:18.456 [info] > git cat-file -s b9f5a650f149c4b9e2778d4ead9a50d65ae8fc6e [2ms]
+2024-09-28 06:26:18.773 [info] > git check-ignore -v -z --stdin [1ms]
+2024-09-28 06:26:19.629 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full d794d5ff440e446fc6c49077a1479975bc9a215d [1333ms]
+2024-09-28 06:26:20.203 [info] > git show --textconv :.git/COMMIT_EDITMSG [7ms]
+2024-09-28 06:26:20.206 [info] > git ls-files --stage -- /home/jasi/.config/.git/COMMIT_EDITMSG [4ms]
+2024-09-28 06:26:20.505 [info] > git check-ignore -v -z --stdin [2ms]
+2024-09-28 06:26:21.122 [info] > git ls-files --stage -- /home/jasi/.config/.git/COMMIT_EDITMSG [2ms]
+2024-09-28 06:26:21.132 [info] > git show --textconv :.git/COMMIT_EDITMSG [2ms]
+2024-09-28 06:26:23.843 [info] > git ls-files --stage -- /home/jasi/.config/.git/COMMIT_EDITMSG [4ms]
+2024-09-28 06:26:23.858 [info] > git show --textconv :.git/COMMIT_EDITMSG [3ms]
+2024-09-28 06:27:00.777 [info] > git ls-files --stage -- /home/jasi/.config/.git/COMMIT_EDITMSG [3ms]
+2024-09-28 06:27:00.794 [info] > git show --textconv :.git/COMMIT_EDITMSG [3ms]
+2024-09-28 06:27:03.446 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full d794d5ff440e446fc6c49077a1479975bc9a215d [1280ms]
+2024-09-28 06:27:04.724 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full d794d5ff440e446fc6c49077a1479975bc9a215d [1271ms]
+2024-09-28 06:27:08.858 [info] > git ls-files --stage -- /home/jasi/.config/.git/COMMIT_EDITMSG [3ms]
+2024-09-28 06:27:08.874 [info] > git show --textconv :.git/COMMIT_EDITMSG [4ms]
+2024-09-28 06:27:17.301 [info] > git -c user.useConfigOnly=true commit --quiet [57487ms]
+2024-09-28 06:27:17.314 [info] > git config --get commit.template [5ms]
+2024-09-28 06:27:17.315 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-09-28 06:27:17.335 [info] > git status -z -uall [13ms]
+2024-09-28 06:27:17.351 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2024-09-28 06:27:17.356 [info] > git config --get commit.template [6ms]
+2024-09-28 06:27:17.357 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-09-28 06:27:17.357 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-28 06:27:17.366 [info] > git reflog main --grep-reflog=branch: Created from *. [5ms]
+2024-09-28 06:27:17.370 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-09-28 06:27:17.370 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-09-28 06:27:17.370 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-28 06:27:17.378 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2024-09-28 06:27:17.383 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [1ms]
+2024-09-28 06:27:17.388 [info] > git diff --name-status -z --diff-filter=ADMR d794d5ff440e446fc6c49077a1479975bc9a215d...refs/remotes/origin/main [1ms]
+2024-09-28 06:27:17.393 [info] > git status -z -uall [15ms]
+2024-09-28 06:27:17.401 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-09-28 06:27:17.407 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-09-28 06:27:17.407 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-28 06:27:17.416 [info] > git reflog main --grep-reflog=branch: Created from *. [4ms]
+2024-09-28 06:27:17.434 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [13ms]
+2024-09-28 06:27:17.434 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-28 06:27:17.436 [info] > git config --get commit.template [2ms]
+2024-09-28 06:27:17.441 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-09-28 06:27:17.463 [info] > git status -z -uall [18ms]
+2024-09-28 06:27:17.471 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-09-28 06:27:17.477 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2024-09-28 06:27:17.477 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-28 06:27:17.484 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2024-09-28 06:27:17.489 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-09-28 06:27:17.489 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-28 06:27:17.789 [info] > git show --textconv :READ.md [4ms]
+2024-09-28 06:27:17.790 [info] > git ls-files --stage -- /home/jasi/.config/READ.md [1ms]
+2024-09-28 06:27:17.794 [info] > git cat-file -s b9f5a650f149c4b9e2778d4ead9a50d65ae8fc6e [1ms]
+2024-09-28 06:27:18.112 [info] > git check-ignore -v -z --stdin [2ms]
+2024-09-28 06:27:18.720 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full 68bd55c1a0e2cde2760ec415c1874c4d9635ab6a d794d5ff440e446fc6c49077a1479975bc9a215d [1292ms]
+2024-09-28 06:27:18.781 [info] > git ls-files --stage -- /home/jasi/.config/READ.md [3ms]
+2024-09-28 06:27:18.791 [info] > git cat-file -s b9f5a650f149c4b9e2778d4ead9a50d65ae8fc6e [3ms]
+2024-09-28 06:27:18.807 [info] > git show --textconv :READ.md [3ms]

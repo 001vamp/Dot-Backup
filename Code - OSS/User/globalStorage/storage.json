@@ -270,10 +270,6 @@
                         "label": "&&Close Editor"
                     },
                     {
-                        "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
-                    },
-                    {
                         "id": "workbench.action.closeWindow",
                         "label": "Clos&&e Window"
                     },
@@ -788,7 +784,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "checked": true
                     }
                 ]
             },
@@ -1310,11 +1307,6 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
-            "workbench.action.closeFolder": {
-                "label": "Ctrl+K F",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k f"
-            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1688,6 +1680,10 @@
                 "label": "Ctrl+K Ctrl+R",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+r"
+            },
+            "workbench.action.toggleDevTools": {
+                "label": "Ctrl+Shift+I",
+                "userSettingsLabel": "ctrl+shift+i"
             }
         }
     },
@@ -1705,15 +1701,6 @@
             "sideBarBackground": "#f8f8f8",
             "statusBarBackground": "#f8f8f8",
             "statusBarNoFolderBackground": "#f8f8f8"
-        },
-        "layoutInfo": {
-            "sideBarSide": "left",
-            "editorPartMinWidth": 220,
-            "titleBarHeight": 0,
-            "activityBarWidth": 48,
-            "sideBarWidth": 170,
-            "statusBarHeight": 22,
-            "windowBorder": false
         }
     },
     "windowsState": {
@@ -1728,6 +1715,27 @@
                 "height": 1029
             }
         },
-        "openedWindows": []
+        "lastPluginDevelopmentHostWindow": {
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 960,
+                "height": 514
+            }
+        },
+        "openedWindows": [
+            {
+                "folder": "file:///home/jasi",
+                "backupPath": "/home/jasi/.config/Code - OSS/Backups/8b26dbf953e070064fa67e75e1b99ba9",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 0,
+                    "width": 960,
+                    "height": 1029
+                }
+            }
+        ]
     }
 }

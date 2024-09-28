@@ -343,3 +343,85 @@ Use '--' to separate paths from revisions, like this:
 2024-09-28 06:02:17.134 [info] fatal: not a git repository (or any of the parent directories): .git
 2024-09-28 06:02:22.067 [info] > git rev-parse --show-toplevel [2ms]
 2024-09-28 06:02:22.068 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-28 06:24:13.537 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/jasi/.config/hypr/.git/config'
+2024-09-28 06:24:13.542 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/jasi/.config/hypr/.git/HEAD'
+2024-09-28 06:24:13.550 [info] > git symbolic-ref --short HEAD [34ms]
+2024-09-28 06:24:13.550 [info] fatal: No such ref: HEAD
+2024-09-28 06:24:13.554 [info] > git symbolic-ref --short HEAD [43ms]
+2024-09-28 06:24:13.564 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-09-28 06:24:13.564 [info] > git rev-parse HEAD [10ms]
+2024-09-28 06:24:13.564 [info] fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+2024-09-28 06:24:13.564 [info] > git config --get commit.template [14ms]
+2024-09-28 06:24:13.564 [info] > git config --get commit.template [19ms]
+2024-09-28 06:24:13.564 [info] > git symbolic-ref --short HEAD [22ms]
+2024-09-28 06:24:13.568 [info] > git remote --verbose [31ms]
+2024-09-28 06:24:13.568 [info] > git config --get commit.template [35ms]
+2024-09-28 06:24:13.569 [info] > git config --get commit.template [40ms]
+2024-09-28 06:24:13.569 [info] > git config --get commit.template [44ms]
+2024-09-28 06:24:13.569 [info] > git config --get commit.template [48ms]
+2024-09-28 06:24:13.573 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/jasi/.cache/yay/swaylock-effects-git/.git/refs/remotes/origin/master'
+2024-09-28 06:24:13.574 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-09-28 06:24:13.574 [info] > git ls-files --stage -- /home/jasi/.config/fish/config.fish [13ms]
+2024-09-28 06:24:13.596 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/jasi/.config/hypr/.git/refs/remotes/origin/main'
+2024-09-28 06:24:13.597 [info] > git rev-parse refs/remotes/origin/master [24ms]
+2024-09-28 06:24:13.602 [info] > git status -z -uall [16ms]
+2024-09-28 06:24:13.602 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2024-09-28 06:24:13.606 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2024-09-28 06:24:13.607 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [18ms]
+2024-09-28 06:24:13.608 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [26ms]
+2024-09-28 06:24:13.608 [info] > git cat-file -s 0cbee4ecaf313d15185662b6e39f10fc628ab99c [30ms]
+2024-09-28 06:24:13.613 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/jasi/.cache/yay/wine-stable/.git/refs/remotes/origin/master'
+2024-09-28 06:24:13.617 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/jasi/.cache/yay/python-pyamdgpuinfo/.git/refs/remotes/origin/master'
+2024-09-28 06:24:13.618 [info] > git status -z -uall [17ms]
+2024-09-28 06:24:13.618 [info] > git status -z -uall [12ms]
+2024-09-28 06:24:13.632 [info] > git show --textconv :fish/config.fish [1ms]
+2024-09-28 06:24:13.632 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-09-28 06:24:13.637 [info] > git rev-parse refs/remotes/origin/master [20ms]
+2024-09-28 06:24:13.641 [info] > git rev-parse refs/remotes/origin/master [28ms]
+2024-09-28 06:24:13.652 [info] > git status -z -uall [11ms]
+2024-09-28 06:24:13.652 [info] > git status -z -uall [7ms]
+2024-09-28 06:24:13.652 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-09-28 06:24:13.666 [info] > git config --local branch.master.vscode-merge-base [30ms]
+2024-09-28 06:24:13.666 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-28 06:24:13.674 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-09-28 06:24:13.678 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2024-09-28 06:24:13.681 [info] > git config --local branch.main.vscode-merge-base [24ms]
+2024-09-28 06:24:13.681 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-28 06:24:13.686 [info] > git status -z -uall [12ms]
+2024-09-28 06:24:13.686 [info] > git config --local branch.master.vscode-merge-base [5ms]
+2024-09-28 06:24:13.691 [info] > git config --local branch.master.vscode-merge-base [14ms]
+2024-09-28 06:24:13.696 [info] > git reflog master --grep-reflog=branch: Created from *. [27ms]
+2024-09-28 06:24:13.702 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [6ms]
+2024-09-28 06:24:13.702 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [11ms]
+2024-09-28 06:24:13.703 [info] > git reflog main --grep-reflog=branch: Created from *. [19ms]
+2024-09-28 06:24:13.729 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2024-09-28 06:24:13.736 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [27ms]
+2024-09-28 06:24:13.736 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-28 06:24:13.740 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [39ms]
+2024-09-28 06:24:13.745 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2024-09-28 06:24:13.748 [info] > git config --local branch.main.vscode-merge-base [12ms]
+2024-09-28 06:24:13.748 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-28 06:24:13.756 [info] > git reflog main --grep-reflog=branch: Created from *. [4ms]
+2024-09-28 06:24:13.759 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [11ms]
+2024-09-28 06:24:13.763 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [19ms]
+2024-09-28 06:24:13.768 [info] > git diff --name-status -z --diff-filter=ADMR d794d5ff440e446fc6c49077a1479975bc9a215d...refs/remotes/origin/main [5ms]
+2024-09-28 06:24:13.768 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [9ms]
+2024-09-28 06:24:13.768 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-28 06:24:13.772 [info] > git config --local branch.master.vscode-merge-base origin/master [4ms]
+2024-09-28 06:24:13.780 [info] > git symbolic-ref --short HEAD [5ms]
+2024-09-28 06:24:13.783 [info] > git merge-base refs/heads/main refs/remotes/origin/main [12ms]
+2024-09-28 06:24:13.788 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-09-28 06:24:13.788 [info] > git config --get commit.template [9ms]
+2024-09-28 06:24:13.793 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/jasi/.cache/yay/swaylock-effects-git/.git/refs/remotes/origin/master'
+2024-09-28 06:24:13.794 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [7ms]
+2024-09-28 06:24:13.800 [info] > git rev-parse refs/remotes/origin/master [7ms]
+2024-09-28 06:24:13.807 [info] > git diff --name-status -z --diff-filter=ADMR d794d5ff440e446fc6c49077a1479975bc9a215d...refs/remotes/origin/main [8ms]
+2024-09-28 06:24:13.808 [info] > git status -z -uall [2ms]
+2024-09-28 06:24:13.829 [info] > git merge-base refs/heads/master refs/remotes/origin/master [9ms]
+2024-09-28 06:24:13.833 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
+2024-09-28 06:24:13.837 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [5ms]
+2024-09-28 06:24:13.840 [info] > git config --local branch.master.vscode-merge-base [4ms]
+2024-09-28 06:24:13.844 [info] > git diff --name-status -z --diff-filter=ADMR ec29ce9b635da2d02a5af2fe92d4224561971fa6...refs/remotes/origin/master [4ms]
+2024-09-28 06:24:13.845 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [1ms]

@@ -1,0 +1,43 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   READ.md
+#
+# Changes not staged for commit:
+#	modified:   Code - OSS/CachedData/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/chrome/js/index-dir/the-real-index
+#	modified:   Code - OSS/DawnGraphiteCache/data_1
+#	modified:   Code - OSS/DawnWebGPUCache/data_1
+#	modified:   Code - OSS/GPUCache/data_0
+#	modified:   Code - OSS/GPUCache/data_1
+#	modified:   Code - OSS/GPUCache/data_2
+#	modified:   Code - OSS/GPUCache/index
+#	modified:   Code - OSS/Local Storage/leveldb/LOG
+#	modified:   Code - OSS/Local Storage/leveldb/LOG.old
+#	modified:   Code - OSS/Service Worker/Database/LOG
+#	modified:   Code - OSS/Service Worker/Database/LOG.old
+#	modified:   Code - OSS/Session Storage/000003.log
+#	modified:   Code - OSS/Session Storage/LOG
+#	modified:   Code - OSS/Session Storage/LOG.old
+#	modified:   Code - OSS/User/globalStorage/state.vscdb
+#	modified:   Code - OSS/User/globalStorage/storage.json
+#	modified:   Code - OSS/User/workspaceStorage/f7c973becd015232e2e5d4c9a26c5702/state.vscdb
+#	modified:   Code - OSS/logs/20240928T042448/main.log
+#	modified:   Code - OSS/logs/20240928T042448/remoteTunnelService.log
+#	modified:   Code - OSS/logs/20240928T042448/window1/exthost/exthost.log
+#	modified:   Code - OSS/logs/20240928T042448/window1/exthost/vscode.git/Git.log
+#	modified:   dconf/user
+#
+# Untracked files:
+#	Code - OSS/User/History/-519862fc/
+#	Code - OSS/User/workspaceStorage/ext-dev/
+#	Code - OSS/logs/20240928T042448/ptyhost.log
+#	Code - OSS/logs/20240928T042448/window2/
+#	Code - OSS/logs/20240928T042448/window3/
+#	Code - OSS/logs/20240928T042448/window4/
+#	Code - OSS/logs/20240928T042448/window5/
+#

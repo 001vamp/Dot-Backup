@@ -374,3 +374,4 @@
 	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
 	at ChildProcess.emit (node:events:531:35)
 	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 06:24:13.722 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2406
