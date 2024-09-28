@@ -18,3 +18,6 @@
 2024-09-28 06:56:34.840 [warning] [Decorations] CAPPING events from decorations provider vscode.git 372
 2024-09-28 06:56:37.249 [warning] [vscode.git] Accessing a window scoped configuration for a resource is not expected. To associate 'git.useEditorAsCommitInput' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
 2024-09-28 06:56:37.249 [warning] [vscode.git] Accessing a window scoped configuration for a resource is not expected. To associate 'git.useEditorAsCommitInput' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-09-28 06:57:02.079 [warning] [Decorations] CAPPING events from decorations provider vscode.git 373
+2024-09-28 06:57:59.519 [warning] [vscode.git] Accessing a window scoped configuration for a resource is not expected. To associate 'git.useEditorAsCommitInput' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
+2024-09-28 06:57:59.519 [warning] [vscode.git] Accessing a window scoped configuration for a resource is not expected. To associate 'git.useEditorAsCommitInput' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.

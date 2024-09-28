@@ -1,0 +1,220 @@
+idk
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   Code - OSS/CachedData/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/chrome/js/index-dir/the-real-index
+#	modified:   Code - OSS/DawnGraphiteCache/data_1
+#	modified:   Code - OSS/DawnGraphiteCache/index
+#	modified:   Code - OSS/DawnWebGPUCache/data_1
+#	modified:   Code - OSS/DawnWebGPUCache/index
+#	modified:   Code - OSS/GPUCache/data_1
+#	modified:   Code - OSS/GPUCache/index
+#	modified:   Code - OSS/Local Storage/leveldb/LOG
+#	modified:   Code - OSS/Local Storage/leveldb/LOG.old
+#	modified:   Code - OSS/Service Worker/Database/LOG
+#	modified:   Code - OSS/Service Worker/Database/LOG.old
+#	modified:   Code - OSS/Session Storage/000003.log
+#	modified:   Code - OSS/Session Storage/LOG
+#	modified:   Code - OSS/Session Storage/LOG.old
+#	new file:   Code - OSS/User/History/-1f9700d1/7fue
+#	modified:   Code - OSS/User/History/-1f9700d1/entries.json
+#	new file:   Code - OSS/User/History/-519862fc/953B.md
+#	new file:   Code - OSS/User/History/-519862fc/M7sS.md
+#	new file:   Code - OSS/User/History/-519862fc/PeAQ.md
+#	new file:   Code - OSS/User/History/-519862fc/VHhf.md
+#	modified:   Code - OSS/User/History/-519862fc/entries.json
+#	new file:   Code - OSS/User/History/-519862fc/zMSG.md
+#	modified:   Code - OSS/User/History/659e5046/entries.json
+#	new file:   Code - OSS/User/History/659e5046/xOvB.json
+#	modified:   Code - OSS/User/globalStorage/state.vscdb
+#	modified:   Code - OSS/User/globalStorage/state.vscdb.backup
+#	modified:   Code - OSS/User/globalStorage/storage.json
+#	modified:   Code - OSS/User/settings.json
+#	modified:   Code - OSS/User/workspaceStorage/ext-dev/state.vscdb
+#	new file:   Code - OSS/User/workspaceStorage/ext-dev/state.vscdb.backup
+#	modified:   Code - OSS/User/workspaceStorage/f7c973becd015232e2e5d4c9a26c5702/state.vscdb
+#	modified:   Code - OSS/User/workspaceStorage/f7c973becd015232e2e5d4c9a26c5702/state.vscdb.backup
+#	modified:   Code - OSS/code.lock
+#	deleted:    Code - OSS/logs/20240927T150107/main.log
+#	deleted:    Code - OSS/logs/20240927T150107/ptyhost.log
+#	deleted:    Code - OSS/logs/20240927T150107/remoteTunnelService.log
+#	deleted:    Code - OSS/logs/20240927T150107/window1/exthost/extensionTelemetry.log
+#	deleted:    Code - OSS/logs/20240927T150107/window1/exthost/exthost.log
+#	deleted:    Code - OSS/logs/20240927T150107/window1/exthost/vscode.github/GitHub.log
+#	deleted:    Code - OSS/logs/20240927T150107/window1/renderer.log
+#	deleted:    Code - OSS/logs/20240927T150107/window1/views.log
+#	deleted:    Code - OSS/logs/20240927T150107/window2/exthost/extensionTelemetry.log
+#	deleted:    Code - OSS/logs/20240927T150107/window2/exthost/exthost.log
+#	deleted:    Code - OSS/logs/20240927T150107/window2/exthost/vscode.git/Git.log
+#	deleted:    Code - OSS/logs/20240927T150107/window2/exthost/vscode.github/GitHub.log
+#	deleted:    Code - OSS/logs/20240927T150107/window2/renderer.log
+#	deleted:    Code - OSS/logs/20240927T150107/window2/views.log
+#	deleted:    Code - OSS/logs/20240927T150445/main.log
+#	deleted:    Code - OSS/logs/20240927T150445/window1/exthost/extensionTelemetry.log
+#	deleted:    Code - OSS/logs/20240927T150445/window1/exthost/exthost.log
+#	deleted:    Code - OSS/logs/20240927T150445/window1/exthost/vscode.git/Git.log
+#	deleted:    Code - OSS/logs/20240927T150445/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	deleted:    Code - OSS/logs/20240927T150445/window1/exthost/vscode.github/GitHub.log
+#	deleted:    Code - OSS/logs/20240927T150445/window1/exthost/vscode.typescript-language-features/TypeScript.log
+#	deleted:    Code - OSS/logs/20240927T150445/window1/network.log
+#	deleted:    Code - OSS/logs/20240927T150445/window1/notebook.rendering.log
+#	deleted:    Code - OSS/logs/20240927T150445/window1/renderer.log
+#	deleted:    Code - OSS/logs/20240927T150445/window1/views.log
+#	deleted:    Code - OSS/logs/20240927T154045/editSessions.log
+#	deleted:    Code - OSS/logs/20240927T154045/main.log
+#	deleted:    Code - OSS/logs/20240927T154045/network.log
+#	deleted:    Code - OSS/logs/20240927T154045/sharedprocess.log
+#	deleted:    Code - OSS/logs/20240927T154045/terminal.log
+#	deleted:    Code - OSS/logs/20240927T154045/userDataSync.log
+#	deleted:    Code - OSS/logs/20240927T154045/window1/exthost/extensionTelemetry.log
+#	deleted:    Code - OSS/logs/20240927T154045/window1/exthost/exthost.log
+#	deleted:    Code - OSS/logs/20240927T154045/window1/exthost/vscode.git/Git.log
+#	deleted:    Code - OSS/logs/20240927T154045/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	deleted:    Code - OSS/logs/20240927T154045/window1/exthost/vscode.github/GitHub.log
+#	deleted:    Code - OSS/logs/20240927T154045/window1/network.log
+#	deleted:    Code - OSS/logs/20240927T154045/window1/notebook.rendering.log
+#	deleted:    Code - OSS/logs/20240927T154045/window1/output_20240927T154048/tasks.log
+#	deleted:    Code - OSS/logs/20240927T154045/window1/renderer.log
+#	deleted:    Code - OSS/logs/20240927T154045/window1/views.log
+#	deleted:    Code - OSS/logs/20240927T162006/editSessions.log
+#	deleted:    Code - OSS/logs/20240927T162006/main.log
+#	deleted:    Code - OSS/logs/20240927T162006/network.log
+#	deleted:    Code - OSS/logs/20240927T162006/remoteTunnelService.log
+#	deleted:    Code - OSS/logs/20240927T162006/sharedprocess.log
+#	deleted:    Code - OSS/logs/20240927T162006/terminal.log
+#	deleted:    Code - OSS/logs/20240927T162006/userDataSync.log
+#	deleted:    Code - OSS/logs/20240927T162006/window1/exthost/extensionTelemetry.log
+#	deleted:    Code - OSS/logs/20240927T162006/window1/exthost/exthost.log
+#	deleted:    Code - OSS/logs/20240927T162006/window1/exthost/vscode.git/Git.log
+#	deleted:    Code - OSS/logs/20240927T162006/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	deleted:    Code - OSS/logs/20240927T162006/window1/exthost/vscode.github/GitHub.log
+#	deleted:    Code - OSS/logs/20240927T162006/window1/exthost/vscode.json-language-features/JSON Language Server.log
+#	deleted:    Code - OSS/logs/20240927T162006/window1/network.log
+#	deleted:    Code - OSS/logs/20240927T162006/window1/notebook.rendering.log
+#	deleted:    Code - OSS/logs/20240927T162006/window1/output_20240927T162009/tasks.log
+#	deleted:    Code - OSS/logs/20240927T162006/window1/renderer.log
+#	deleted:    Code - OSS/logs/20240927T162006/window1/views.log
+#	deleted:    Code - OSS/logs/20240927T163636/editSessions.log
+#	deleted:    Code - OSS/logs/20240927T163636/main.log
+#	deleted:    Code - OSS/logs/20240927T163636/network.log
+#	deleted:    Code - OSS/logs/20240927T163636/remoteTunnelService.log
+#	deleted:    Code - OSS/logs/20240927T163636/sharedprocess.log
+#	deleted:    Code - OSS/logs/20240927T163636/terminal.log
+#	deleted:    Code - OSS/logs/20240927T163636/userDataSync.log
+#	deleted:    Code - OSS/logs/20240927T163636/window1/exthost/extensionTelemetry.log
+#	deleted:    Code - OSS/logs/20240927T163636/window1/exthost/exthost.log
+#	deleted:    Code - OSS/logs/20240927T163636/window1/exthost/vscode.git/Git.log
+#	deleted:    Code - OSS/logs/20240927T163636/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	deleted:    Code - OSS/logs/20240927T163636/window1/exthost/vscode.github/GitHub.log
+#	deleted:    Code - OSS/logs/20240927T163636/window1/network.log
+#	deleted:    Code - OSS/logs/20240927T163636/window1/notebook.rendering.log
+#	deleted:    Code - OSS/logs/20240927T163636/window1/output_20240927T163639/tasks.log
+#	deleted:    Code - OSS/logs/20240927T163636/window1/output_20240927T163701/tasks.log
+#	deleted:    Code - OSS/logs/20240927T163636/window1/renderer.log
+#	deleted:    Code - OSS/logs/20240927T163636/window1/views.log
+#	deleted:    Code - OSS/logs/20240927T163711/editSessions.log
+#	deleted:    Code - OSS/logs/20240927T163711/main.log
+#	deleted:    Code - OSS/logs/20240927T163711/network.log
+#	deleted:    Code - OSS/logs/20240927T163711/remoteTunnelService.log
+#	deleted:    Code - OSS/logs/20240927T163711/sharedprocess.log
+#	deleted:    Code - OSS/logs/20240927T163711/terminal.log
+#	deleted:    Code - OSS/logs/20240927T163711/userDataSync.log
+#	deleted:    Code - OSS/logs/20240927T163711/window1/exthost/extensionTelemetry.log
+#	deleted:    Code - OSS/logs/20240927T163711/window1/exthost/exthost.log
+#	deleted:    Code - OSS/logs/20240927T163711/window1/exthost/vscode.git/Git.log
+#	deleted:    Code - OSS/logs/20240927T163711/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	deleted:    Code - OSS/logs/20240927T163711/window1/exthost/vscode.github/GitHub.log
+#	deleted:    Code - OSS/logs/20240927T163711/window1/network.log
+#	deleted:    Code - OSS/logs/20240927T163711/window1/notebook.rendering.log
+#	deleted:    Code - OSS/logs/20240927T163711/window1/output_20240927T163712/tasks.log
+#	deleted:    Code - OSS/logs/20240927T163711/window1/renderer.log
+#	deleted:    Code - OSS/logs/20240927T163711/window1/views.log
+#	deleted:    Code - OSS/logs/20240928T035125/editSessions.log
+#	deleted:    Code - OSS/logs/20240928T035125/main.log
+#	deleted:    Code - OSS/logs/20240928T035125/network.log
+#	deleted:    Code - OSS/logs/20240928T035125/remoteTunnelService.log
+#	deleted:    Code - OSS/logs/20240928T035125/sharedprocess.log
+#	deleted:    Code - OSS/logs/20240928T035125/terminal.log
+#	deleted:    Code - OSS/logs/20240928T035125/userDataSync.log
+#	deleted:    Code - OSS/logs/20240928T035125/window1/exthost/extensionTelemetry.log
+#	deleted:    Code - OSS/logs/20240928T035125/window1/exthost/exthost.log
+#	deleted:    Code - OSS/logs/20240928T035125/window1/exthost/vscode.git/Git.log
+#	deleted:    Code - OSS/logs/20240928T035125/window1/exthost/vscode.github/GitHub.log
+#	deleted:    Code - OSS/logs/20240928T035125/window1/network.log
+#	deleted:    Code - OSS/logs/20240928T035125/window1/notebook.rendering.log
+#	deleted:    Code - OSS/logs/20240928T035125/window1/output_20240928T035128/tasks.log
+#	deleted:    Code - OSS/logs/20240928T035125/window1/renderer.log
+#	deleted:    Code - OSS/logs/20240928T035125/window1/views.log
+#	deleted:    Code - OSS/logs/20240928T035249/editSessions.log
+#	deleted:    Code - OSS/logs/20240928T035249/main.log
+#	deleted:    Code - OSS/logs/20240928T035249/network.log
+#	deleted:    Code - OSS/logs/20240928T035249/remoteTunnelService.log
+#	deleted:    Code - OSS/logs/20240928T035249/sharedprocess.log
+#	deleted:    Code - OSS/logs/20240928T035249/terminal.log
+#	deleted:    Code - OSS/logs/20240928T035249/userDataSync.log
+#	deleted:    Code - OSS/logs/20240928T035249/window1/exthost/extensionTelemetry.log
+#	deleted:    Code - OSS/logs/20240928T035249/window1/exthost/exthost.log
+#	deleted:    Code - OSS/logs/20240928T035249/window1/exthost/vscode.github/GitHub.log
+#	deleted:    Code - OSS/logs/20240928T035249/window1/network.log
+#	deleted:    Code - OSS/logs/20240928T035249/window1/notebook.rendering.log
+#	deleted:    Code - OSS/logs/20240928T035249/window1/output_20240928T035250/tasks.log
+#	deleted:    Code - OSS/logs/20240928T035249/window1/renderer.log
+#	deleted:    Code - OSS/logs/20240928T035249/window1/views.log
+#	modified:   Code - OSS/logs/20240928T042448/main.log
+#	modified:   Code - OSS/logs/20240928T042448/remoteTunnelService.log
+#	modified:   Code - OSS/logs/20240928T042448/window1/exthost/exthost.log
+#	modified:   Code - OSS/logs/20240928T042448/window1/exthost/vscode.git/Git.log
+#	modified:   Code - OSS/logs/20240928T042448/window1/views.log
+#	modified:   Code - OSS/logs/20240928T042448/window6/exthost/extensionTelemetry.log
+#	modified:   Code - OSS/logs/20240928T042448/window6/exthost/exthost.log
+#	modified:   Code - OSS/logs/20240928T042448/window6/exthost/vscode.git/Git.log
+#	modified:   Code - OSS/logs/20240928T042448/window6/exthost/vscode.github-authentication/GitHub Authentication.log
+#	modified:   Code - OSS/logs/20240928T042448/window6/exthost/vscode.github/GitHub.log
+#	renamed:    Code - OSS/logs/20240927T163636/window1/exthost/vscode.json-language-features/JSON Language Server.log -> Code - OSS/logs/20240928T042448/window6/exthost/vscode.json-language-features/JSON Language Server.log
+#	renamed:    Code - OSS/logs/20240927T150107/window1/output_20240927T150108/tasks.log -> Code - OSS/logs/20240928T042448/window6/output_20240928T065122/tasks.log
+#	modified:   Code - OSS/logs/20240928T042448/window6/renderer.log
+#	modified:   Code - OSS/logs/20240928T042448/window6/views.log
+#	renamed:    Code - OSS/logs/20240927T150107/editSessions.log -> Code - OSS/logs/20240928T065428/editSessions.log
+#	new file:   Code - OSS/logs/20240928T065428/main.log
+#	renamed:    Code - OSS/logs/20240927T150107/network.log -> Code - OSS/logs/20240928T065428/network.log
+#	renamed:    Code - OSS/logs/20240927T150445/remoteTunnelService.log -> Code - OSS/logs/20240928T065428/remoteTunnelService.log
+#	renamed:    Code - OSS/logs/20240927T150107/sharedprocess.log -> Code - OSS/logs/20240928T065428/sharedprocess.log
+#	renamed:    Code - OSS/logs/20240927T150107/terminal.log -> Code - OSS/logs/20240928T065428/terminal.log
+#	renamed:    Code - OSS/logs/20240927T150107/userDataSync.log -> Code - OSS/logs/20240928T065428/userDataSync.log
+#	new file:   Code - OSS/logs/20240928T065428/window1/exthost/extensionTelemetry.log
+#	new file:   Code - OSS/logs/20240928T065428/window1/exthost/exthost.log
+#	new file:   Code - OSS/logs/20240928T065428/window1/exthost/vscode.git/Git.log
+#	new file:   Code - OSS/logs/20240928T065428/window1/exthost/vscode.github/GitHub.log
+#	renamed:    Code - OSS/logs/20240927T150107/window1/network.log -> Code - OSS/logs/20240928T065428/window1/network.log
+#	renamed:    Code - OSS/logs/20240927T150107/window1/notebook.rendering.log -> Code - OSS/logs/20240928T065428/window1/notebook.rendering.log
+#	renamed:    Code - OSS/logs/20240927T150107/window2/output_20240927T150146/tasks.log -> Code - OSS/logs/20240928T065428/window1/output_20240928T065429/tasks.log
+#	new file:   Code - OSS/logs/20240928T065428/window1/renderer.log
+#	new file:   Code - OSS/logs/20240928T065428/window1/views.log
+#	renamed:    Code - OSS/logs/20240927T150445/editSessions.log -> Code - OSS/logs/20240928T065450/editSessions.log
+#	new file:   Code - OSS/logs/20240928T065450/main.log
+#	renamed:    Code - OSS/logs/20240927T150107/window2/network.log -> Code - OSS/logs/20240928T065450/network.log
+#	renamed:    Code - OSS/logs/20240927T154045/remoteTunnelService.log -> Code - OSS/logs/20240928T065450/remoteTunnelService.log
+#	renamed:    Code - OSS/logs/20240927T150445/sharedprocess.log -> Code - OSS/logs/20240928T065450/sharedprocess.log
+#	renamed:    Code - OSS/logs/20240927T150445/terminal.log -> Code - OSS/logs/20240928T065450/terminal.log
+#	renamed:    Code - OSS/logs/20240927T150445/userDataSync.log -> Code - OSS/logs/20240928T065450/userDataSync.log
+#	new file:   Code - OSS/logs/20240928T065450/window1/exthost/extensionTelemetry.log
+#	new file:   Code - OSS/logs/20240928T065450/window1/exthost/exthost.log
+#	new file:   Code - OSS/logs/20240928T065450/window1/exthost/vscode.git/Git.log
+#	new file:   Code - OSS/logs/20240928T065450/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code - OSS/logs/20240928T065450/window1/exthost/vscode.github/GitHub.log
+#	renamed:    Code - OSS/logs/20240927T150445/network.log -> Code - OSS/logs/20240928T065450/window1/network.log
+#	renamed:    Code - OSS/logs/20240927T150107/window2/notebook.rendering.log -> Code - OSS/logs/20240928T065450/window1/notebook.rendering.log
+#	renamed:    Code - OSS/logs/20240927T150445/window1/output_20240927T150446/tasks.log -> Code - OSS/logs/20240928T065450/window1/output_20240928T065452/tasks.log
+#	new file:   Code - OSS/logs/20240928T065450/window1/renderer.log
+#	new file:   Code - OSS/logs/20240928T065450/window1/views.log
+#	new file:   READ.md
+#	modified:   dconf/user
+#
+# Changes not staged for commit:
+#	modified:   Code - OSS/logs/20240928T065450/window1/exthost/vscode.git/Git.log
+#
