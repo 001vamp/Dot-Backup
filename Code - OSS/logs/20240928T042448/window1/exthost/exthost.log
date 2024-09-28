@@ -1,0 +1,376 @@
+2024-09-28 04:24:51.743 [info] Extension host with pid 118965 started
+2024-09-28 04:24:51.743 [info] Skipping acquiring lock for /home/jasi/.config/Code - OSS/User/workspaceStorage/f7c973becd015232e2e5d4c9a26c5702.
+2024-09-28 04:24:51.833 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-28 04:24:51.868 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-28 04:24:51.874 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-28 04:24:51.892 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-28 04:24:51.916 [info] Eager extensions activated
+2024-09-28 04:24:51.929 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-28 04:24:51.930 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-28 04:24:52.690 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-09-28 04:29:37.376 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-09-28 04:29:37.391 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-09-28 04:29:37.405 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-09-28 04:29:37.451 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-09-28 05:54:10.593 [error] Error: No such branch: master.
+	at N.getBranch (/usr/lib/code/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/usr/lib/code/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/usr/lib/code/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/usr/lib/code/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/usr/lib/code/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/usr/lib/code/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/usr/lib/code/extensions/git/dist/main.js:2:941737)
+2024-09-28 05:54:10.604 [error] Error: No such branch: master.
+	at N.getBranch (/usr/lib/code/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/usr/lib/code/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/usr/lib/code/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/usr/lib/code/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/usr/lib/code/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/usr/lib/code/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/usr/lib/code/extensions/git/dist/main.js:2:941737)
+2024-09-28 05:59:23.111 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2359
+2024-09-28 05:59:23.156 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2359
+2024-09-28 05:59:23.604 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.604 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.604 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.604 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.604 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.604 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:23.605 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.123 [error] Error: No such branch: master.
+	at N.getBranch (/usr/lib/code/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/usr/lib/code/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/usr/lib/code/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/usr/lib/code/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/usr/lib/code/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/usr/lib/code/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/usr/lib/code/extensions/git/dist/main.js:2:941737)
+2024-09-28 05:59:24.159 [error] Error: No such branch: master.
+	at N.getBranch (/usr/lib/code/extensions/git/dist/main.js:2:937115)
+	at async T.retryRun (/usr/lib/code/extensions/git/dist/main.js:2:1032816)
+	at async T.run (/usr/lib/code/extensions/git/dist/main.js:2:1032420)
+	at async T.getBranch (/usr/lib/code/extensions/git/dist/main.js:2:1020563)
+	at async T.getBranchBase (/usr/lib/code/extensions/git/dist/main.js:2:1020849)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/usr/lib/code/extensions/git/dist/main.js:2:948410)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/usr/lib/code/extensions/git/dist/main.js:2:941737)
+2024-09-28 05:59:24.607 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.608 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.608 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.608 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.609 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.609 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.609 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.610 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.610 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.610 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.610 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.611 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.611 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.611 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.612 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.612 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.612 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.612 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.613 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.613 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.613 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.613 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.613 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.614 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.614 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.614 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.614 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.615 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.615 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.615 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.615 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.616 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.616 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.616 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.616 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.617 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.617 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.617 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.618 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.618 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-09-28 05:59:24.618 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/git/dist/main.js:2:1031708)
+	at ChildProcess.emit (node:events:531:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)

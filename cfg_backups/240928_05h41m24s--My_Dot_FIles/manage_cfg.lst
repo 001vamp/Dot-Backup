@@ -1,0 +1,35 @@
+B|${HOME}|.zshrc .p10k.zsh|zsh oh-my-zsh-git zsh-theme-powerlevel10k pokemon-colorscripts-git
+B|${HOME}/.config/Code/User|settings.json|visual-studio-code-bin
+B|${HOME}/.config/Code - OSS/User|settings.json|code
+B|${HOME}/.config|code-flags.conf|visual-studio-code-bin
+B|${HOME}/.config|code-flags.conf|code
+B|${HOME}/.config|spotify-flags.conf|spotify
+B|${HOME}/.config|dunst|dunst
+B|${HOME}/.config|fish|fish
+B|${HOME}/.config|lsd|lsd
+B|${HOME}/.config/hyde|wallbash|hyprland
+B|${HOME}/.config/hypr|animations.conf hyprland.conf windowrules.conf themes|hyprland
+B|${HOME}/.config/hypr|keybindings.conf monitors.conf userprefs.conf|hyprland
+B|${HOME}/.config/hypr|nvidia.conf|hyprland nvidia-utils
+B|${HOME}/.local/share|bin|hyprland
+B|${HOME}/.config|kitty|kitty
+B|${HOME}/.config|Kvantum|kvantum
+B|${HOME}/.config|MangoHud|mangohud
+B|${HOME}/.config|fastfetch|fastfetch
+B|${HOME}/.config|qt5ct|qt5ct
+B|${HOME}/.config|qt6ct|qt6ct
+B|${HOME}/.config|rofi|rofi
+B|${HOME}/.config|swaylock|swaylock-effects
+B|${HOME}/.config/waybar|modules config.jsonc style.css theme.css|waybar
+B|${HOME}/.config/waybar|config.ctl|waybar
+B|${HOME}/.config|wlogout|wlogout
+B|${HOME}/.config|xsettingsd nwg-look gtk-3.0|nwg-look
+B|${HOME}/.icons|default|nwg-look
+B|${HOME}|.gtkrc-2.0|nwg-look
+B|${HOME}/.config|dolphinrc kdeglobals|dolphin
+B|${HOME}/.config|baloofilerc|dolphin
+B|${HOME}/.config/menus|applications.menu|dolphin
+B|${HOME}/.local/share|dolphin|dolphin
+B|${HOME}/.local/share/kxmlgui5|dolphin|dolphin
+B|${HOME}/.local/share/kio/servicemenus|hydewallpaper.desktop|dolphin
+B|${HOME}/.config|libinput-gestures.conf|libinput-gestures

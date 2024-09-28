@@ -1,0 +1,563 @@
+2024-09-27T19:10:32.367Z [Modules] Modules initializing
+2024-09-27T19:10:32.367Z [Modules] Distribution: remote
+2024-09-27T19:10:32.367Z [Modules] Host updates: enabled
+2024-09-27T19:10:32.367Z [Modules] Module updates: enabled
+2024-09-27T19:10:32.368Z [Modules] Module install path: /home/jasi/.config/discord/0.0.69/modules
+2024-09-27T19:10:32.368Z [Modules] Module installed file path: /home/jasi/.config/discord/0.0.69/modules/installed.json
+2024-09-27T19:10:32.368Z [Modules] Module download path: /home/jasi/.config/discord/0.0.69/modules/pending
+2024-09-27T19:10:33.434Z [Modules] Bootstrapping...
+2024-09-27T19:10:33.434Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-09-27T19:10:33.436Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-09-27T19:10:33.436Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-09-27T19:10:33.438Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-09-27T19:10:33.438Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-09-27T19:10:33.439Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-09-27T19:10:33.439Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-09-27T19:10:33.440Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-09-27T19:10:33.441Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-09-27T19:10:33.441Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-09-27T19:10:33.441Z [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2024-09-27T19:10:33.442Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2024-09-27T19:10:33.442Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-09-27T19:10:33.442Z [Modules] Checking for host updates.
+2024-09-27T19:10:34.058Z [Modules] Host is up to date.
+2024-09-27T19:10:34.058Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T19:10:34.115Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-09-27T19:10:34.115Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-09-27T19:10:34.116Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-09-27T19:10:34.116Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-09-27T19:10:34.116Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2024-09-27T19:10:34.116Z [Modules] Module update available: discord_zstd@1 [installed: 0]
+2024-09-27T19:10:34.116Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-09-27T19:10:34.117Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip
+2024-09-27T19:10:34.762Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 1%
+2024-09-27T19:10:34.767Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 2%
+2024-09-27T19:10:34.803Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 4%
+2024-09-27T19:10:34.809Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 6%
+2024-09-27T19:10:34.823Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 7%
+2024-09-27T19:10:34.826Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 8%
+2024-09-27T19:10:34.833Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 10%
+2024-09-27T19:10:34.836Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 12%
+2024-09-27T19:10:34.839Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 13%
+2024-09-27T19:10:34.841Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 14%
+2024-09-27T19:10:34.845Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 16%
+2024-09-27T19:10:34.848Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 17%
+2024-09-27T19:10:34.849Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 18%
+2024-09-27T19:10:34.857Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 19%
+2024-09-27T19:10:34.859Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 22%
+2024-09-27T19:10:34.861Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 23%
+2024-09-27T19:10:34.863Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 24%
+2024-09-27T19:10:34.871Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 25%
+2024-09-27T19:10:34.875Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 26%
+2024-09-27T19:10:34.882Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 27%
+2024-09-27T19:10:34.904Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 29%
+2024-09-27T19:10:34.907Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 31%
+2024-09-27T19:10:34.908Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 34%
+2024-09-27T19:10:34.909Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 37%
+2024-09-27T19:10:34.910Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 39%
+2024-09-27T19:10:34.919Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 41%
+2024-09-27T19:10:34.930Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 43%
+2024-09-27T19:10:34.931Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 47%
+2024-09-27T19:10:34.943Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 50%
+2024-09-27T19:10:34.945Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 52%
+2024-09-27T19:10:34.947Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 54%
+2024-09-27T19:10:34.948Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 57%
+2024-09-27T19:10:34.948Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 58%
+2024-09-27T19:10:34.954Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 60%
+2024-09-27T19:10:34.958Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 63%
+2024-09-27T19:10:34.959Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 64%
+2024-09-27T19:10:34.961Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 66%
+2024-09-27T19:10:34.962Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 68%
+2024-09-27T19:10:34.965Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 70%
+2024-09-27T19:10:34.966Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 72%
+2024-09-27T19:10:34.971Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 75%
+2024-09-27T19:10:34.971Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 76%
+2024-09-27T19:10:34.976Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 79%
+2024-09-27T19:10:34.980Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 81%
+2024-09-27T19:10:34.981Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 84%
+2024-09-27T19:10:34.982Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 85%
+2024-09-27T19:10:34.984Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 86%
+2024-09-27T19:10:34.985Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 89%
+2024-09-27T19:10:34.985Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 90%
+2024-09-27T19:10:34.987Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 93%
+2024-09-27T19:10:34.987Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 95%
+2024-09-27T19:10:34.990Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 97%
+2024-09-27T19:10:35.006Z [Modules] Streaming discord_desktop_core@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip: 100%
+2024-09-27T19:10:35.007Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-09-27T19:10:35.007Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip
+2024-09-27T19:10:35.133Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 2%
+2024-09-27T19:10:35.134Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 6%
+2024-09-27T19:10:35.136Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 9%
+2024-09-27T19:10:35.136Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 13%
+2024-09-27T19:10:35.137Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 15%
+2024-09-27T19:10:35.139Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 18%
+2024-09-27T19:10:35.139Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 20%
+2024-09-27T19:10:35.140Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 23%
+2024-09-27T19:10:35.140Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 25%
+2024-09-27T19:10:35.141Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 28%
+2024-09-27T19:10:35.141Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 29%
+2024-09-27T19:10:35.142Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 33%
+2024-09-27T19:10:35.143Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 36%
+2024-09-27T19:10:35.144Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 37%
+2024-09-27T19:10:35.146Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 40%
+2024-09-27T19:10:35.147Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 43%
+2024-09-27T19:10:35.148Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 46%
+2024-09-27T19:10:35.149Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 50%
+2024-09-27T19:10:35.150Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 53%
+2024-09-27T19:10:35.151Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 56%
+2024-09-27T19:10:35.152Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 61%
+2024-09-27T19:10:35.152Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 64%
+2024-09-27T19:10:35.153Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 65%
+2024-09-27T19:10:35.161Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 68%
+2024-09-27T19:10:35.162Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 71%
+2024-09-27T19:10:35.164Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 73%
+2024-09-27T19:10:35.165Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 77%
+2024-09-27T19:10:35.166Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 81%
+2024-09-27T19:10:35.167Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 87%
+2024-09-27T19:10:35.169Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 90%
+2024-09-27T19:10:35.170Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 93%
+2024-09-27T19:10:35.171Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 96%
+2024-09-27T19:10:35.172Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 97%
+2024-09-27T19:10:35.172Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 98%
+2024-09-27T19:10:35.176Z [Modules] Streaming discord_erlpack@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip: 100%
+2024-09-27T19:10:35.177Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-09-27T19:10:35.177Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip
+2024-09-27T19:10:35.312Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 1%
+2024-09-27T19:10:35.314Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 2%
+2024-09-27T19:10:35.314Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 3%
+2024-09-27T19:10:35.317Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 4%
+2024-09-27T19:10:35.318Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 5%
+2024-09-27T19:10:35.319Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 6%
+2024-09-27T19:10:35.322Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 7%
+2024-09-27T19:10:35.323Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 8%
+2024-09-27T19:10:35.326Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 9%
+2024-09-27T19:10:35.327Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 10%
+2024-09-27T19:10:35.328Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 11%
+2024-09-27T19:10:35.330Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 12%
+2024-09-27T19:10:35.331Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 13%
+2024-09-27T19:10:35.333Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 14%
+2024-09-27T19:10:35.334Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 15%
+2024-09-27T19:10:35.337Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 16%
+2024-09-27T19:10:35.338Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 17%
+2024-09-27T19:10:35.339Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 18%
+2024-09-27T19:10:35.341Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 19%
+2024-09-27T19:10:35.342Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 20%
+2024-09-27T19:10:35.344Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 21%
+2024-09-27T19:10:35.345Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 22%
+2024-09-27T19:10:35.346Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 23%
+2024-09-27T19:10:35.347Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 24%
+2024-09-27T19:10:35.349Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 25%
+2024-09-27T19:10:35.351Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 26%
+2024-09-27T19:10:35.352Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 27%
+2024-09-27T19:10:35.354Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 28%
+2024-09-27T19:10:35.355Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 29%
+2024-09-27T19:10:35.357Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 30%
+2024-09-27T19:10:35.359Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 31%
+2024-09-27T19:10:35.377Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 32%
+2024-09-27T19:10:35.384Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 33%
+2024-09-27T19:10:35.387Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 34%
+2024-09-27T19:10:35.388Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 35%
+2024-09-27T19:10:35.389Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 36%
+2024-09-27T19:10:35.391Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 37%
+2024-09-27T19:10:35.392Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 38%
+2024-09-27T19:10:35.395Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 39%
+2024-09-27T19:10:35.396Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 40%
+2024-09-27T19:10:35.397Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 41%
+2024-09-27T19:10:35.398Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 42%
+2024-09-27T19:10:35.400Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 43%
+2024-09-27T19:10:35.402Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 44%
+2024-09-27T19:10:35.403Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 45%
+2024-09-27T19:10:35.405Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 46%
+2024-09-27T19:10:35.406Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 47%
+2024-09-27T19:10:35.409Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 48%
+2024-09-27T19:10:35.409Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 49%
+2024-09-27T19:10:35.411Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 50%
+2024-09-27T19:10:35.412Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 51%
+2024-09-27T19:10:35.414Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 52%
+2024-09-27T19:10:35.416Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 53%
+2024-09-27T19:10:35.418Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 54%
+2024-09-27T19:10:35.420Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 55%
+2024-09-27T19:10:35.421Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 56%
+2024-09-27T19:10:35.423Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 57%
+2024-09-27T19:10:35.427Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 58%
+2024-09-27T19:10:35.429Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 59%
+2024-09-27T19:10:35.431Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 60%
+2024-09-27T19:10:35.432Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 61%
+2024-09-27T19:10:35.433Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 62%
+2024-09-27T19:10:35.435Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 63%
+2024-09-27T19:10:35.437Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 64%
+2024-09-27T19:10:35.438Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 65%
+2024-09-27T19:10:35.440Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 66%
+2024-09-27T19:10:35.441Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 67%
+2024-09-27T19:10:35.442Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 68%
+2024-09-27T19:10:35.444Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 69%
+2024-09-27T19:10:35.446Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 70%
+2024-09-27T19:10:35.446Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 71%
+2024-09-27T19:10:35.453Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 72%
+2024-09-27T19:10:35.455Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 73%
+2024-09-27T19:10:35.456Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 74%
+2024-09-27T19:10:35.458Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 75%
+2024-09-27T19:10:35.458Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 76%
+2024-09-27T19:10:35.459Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 77%
+2024-09-27T19:10:35.462Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 78%
+2024-09-27T19:10:35.465Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 79%
+2024-09-27T19:10:35.468Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 82%
+2024-09-27T19:10:35.471Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 83%
+2024-09-27T19:10:35.472Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 84%
+2024-09-27T19:10:35.473Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 85%
+2024-09-27T19:10:35.478Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 87%
+2024-09-27T19:10:35.478Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 88%
+2024-09-27T19:10:35.479Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 89%
+2024-09-27T19:10:35.484Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 90%
+2024-09-27T19:10:35.486Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 91%
+2024-09-27T19:10:35.487Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 92%
+2024-09-27T19:10:35.491Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 93%
+2024-09-27T19:10:35.493Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 94%
+2024-09-27T19:10:35.494Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 95%
+2024-09-27T19:10:35.495Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 96%
+2024-09-27T19:10:35.496Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 97%
+2024-09-27T19:10:35.498Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 98%
+2024-09-27T19:10:35.499Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 99%
+2024-09-27T19:10:35.502Z [Modules] Streaming discord_spellcheck@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip: 100%
+2024-09-27T19:10:35.503Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-09-27T19:10:35.503Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip
+2024-09-27T19:10:35.761Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 1%
+2024-09-27T19:10:35.777Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 2%
+2024-09-27T19:10:35.785Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 3%
+2024-09-27T19:10:35.792Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 4%
+2024-09-27T19:10:35.802Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 5%
+2024-09-27T19:10:35.804Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 6%
+2024-09-27T19:10:35.808Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 7%
+2024-09-27T19:10:35.813Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 9%
+2024-09-27T19:10:35.818Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 11%
+2024-09-27T19:10:35.826Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 13%
+2024-09-27T19:10:35.831Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 15%
+2024-09-27T19:10:35.832Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 16%
+2024-09-27T19:10:35.835Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 18%
+2024-09-27T19:10:35.836Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 19%
+2024-09-27T19:10:35.839Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 21%
+2024-09-27T19:10:35.842Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 23%
+2024-09-27T19:10:35.849Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 25%
+2024-09-27T19:10:35.850Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 26%
+2024-09-27T19:10:35.852Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 28%
+2024-09-27T19:10:35.852Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 29%
+2024-09-27T19:10:35.854Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 31%
+2024-09-27T19:10:35.857Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 32%
+2024-09-27T19:10:35.858Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 34%
+2024-09-27T19:10:35.859Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 36%
+2024-09-27T19:10:35.860Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 37%
+2024-09-27T19:10:35.862Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 39%
+2024-09-27T19:10:35.863Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 43%
+2024-09-27T19:10:35.864Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 46%
+2024-09-27T19:10:35.872Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 48%
+2024-09-27T19:10:35.872Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 49%
+2024-09-27T19:10:35.873Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 50%
+2024-09-27T19:10:35.873Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 52%
+2024-09-27T19:10:35.875Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 54%
+2024-09-27T19:10:35.876Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 56%
+2024-09-27T19:10:35.877Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 59%
+2024-09-27T19:10:35.880Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 61%
+2024-09-27T19:10:35.881Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 62%
+2024-09-27T19:10:35.882Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 68%
+2024-09-27T19:10:35.885Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 70%
+2024-09-27T19:10:35.886Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 72%
+2024-09-27T19:10:35.887Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 74%
+2024-09-27T19:10:35.893Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 76%
+2024-09-27T19:10:35.894Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 80%
+2024-09-27T19:10:35.895Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 82%
+2024-09-27T19:10:35.896Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 84%
+2024-09-27T19:10:35.898Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 92%
+2024-09-27T19:10:35.899Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 94%
+2024-09-27T19:10:35.901Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 95%
+2024-09-27T19:10:35.901Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 97%
+2024-09-27T19:10:35.902Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 99%
+2024-09-27T19:10:35.903Z [Modules] Streaming discord_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip: 100%
+2024-09-27T19:10:35.904Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2024-09-27T19:10:35.905Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip
+2024-09-27T19:10:36.069Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 1%
+2024-09-27T19:10:36.073Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 2%
+2024-09-27T19:10:36.076Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 3%
+2024-09-27T19:10:36.078Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 4%
+2024-09-27T19:10:36.081Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 5%
+2024-09-27T19:10:36.086Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 6%
+2024-09-27T19:10:36.090Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 7%
+2024-09-27T19:10:36.092Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 8%
+2024-09-27T19:10:36.097Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 9%
+2024-09-27T19:10:36.102Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 10%
+2024-09-27T19:10:36.106Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 11%
+2024-09-27T19:10:36.108Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 12%
+2024-09-27T19:10:36.111Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 13%
+2024-09-27T19:10:36.113Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 14%
+2024-09-27T19:10:36.118Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 15%
+2024-09-27T19:10:36.121Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 16%
+2024-09-27T19:10:36.123Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 17%
+2024-09-27T19:10:36.128Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 18%
+2024-09-27T19:10:36.130Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 19%
+2024-09-27T19:10:36.133Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 20%
+2024-09-27T19:10:36.137Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 21%
+2024-09-27T19:10:36.138Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 22%
+2024-09-27T19:10:36.141Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 23%
+2024-09-27T19:10:36.146Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 24%
+2024-09-27T19:10:36.149Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 25%
+2024-09-27T19:10:36.152Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 26%
+2024-09-27T19:10:36.157Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 27%
+2024-09-27T19:10:36.159Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 28%
+2024-09-27T19:10:36.163Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 29%
+2024-09-27T19:10:36.174Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 30%
+2024-09-27T19:10:36.177Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 31%
+2024-09-27T19:10:36.181Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 32%
+2024-09-27T19:10:36.185Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 33%
+2024-09-27T19:10:36.188Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 34%
+2024-09-27T19:10:36.192Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 35%
+2024-09-27T19:10:36.195Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 36%
+2024-09-27T19:10:36.200Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 37%
+2024-09-27T19:10:36.203Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 38%
+2024-09-27T19:10:36.205Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 39%
+2024-09-27T19:10:36.207Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 40%
+2024-09-27T19:10:36.210Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 41%
+2024-09-27T19:10:36.214Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 42%
+2024-09-27T19:10:36.215Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 43%
+2024-09-27T19:10:36.218Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 44%
+2024-09-27T19:10:36.220Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 45%
+2024-09-27T19:10:36.223Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 46%
+2024-09-27T19:10:36.227Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 47%
+2024-09-27T19:10:36.228Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 48%
+2024-09-27T19:10:36.244Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 49%
+2024-09-27T19:10:36.249Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 50%
+2024-09-27T19:10:36.253Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 51%
+2024-09-27T19:10:36.255Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 52%
+2024-09-27T19:10:36.257Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 53%
+2024-09-27T19:10:36.263Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 54%
+2024-09-27T19:10:36.265Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 55%
+2024-09-27T19:10:36.269Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 56%
+2024-09-27T19:10:36.271Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 57%
+2024-09-27T19:10:36.274Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 58%
+2024-09-27T19:10:36.279Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 59%
+2024-09-27T19:10:36.283Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 60%
+2024-09-27T19:10:36.284Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 61%
+2024-09-27T19:10:36.288Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 62%
+2024-09-27T19:10:36.291Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 63%
+2024-09-27T19:10:36.294Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 64%
+2024-09-27T19:10:36.297Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 65%
+2024-09-27T19:10:36.303Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 66%
+2024-09-27T19:10:36.306Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 67%
+2024-09-27T19:10:36.310Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 68%
+2024-09-27T19:10:36.314Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 69%
+2024-09-27T19:10:36.316Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 70%
+2024-09-27T19:10:36.320Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 71%
+2024-09-27T19:10:36.322Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 72%
+2024-09-27T19:10:36.324Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 73%
+2024-09-27T19:10:36.327Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 74%
+2024-09-27T19:10:36.329Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 75%
+2024-09-27T19:10:36.334Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 76%
+2024-09-27T19:10:36.336Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 77%
+2024-09-27T19:10:36.340Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 78%
+2024-09-27T19:10:36.343Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 79%
+2024-09-27T19:10:36.346Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 80%
+2024-09-27T19:10:36.350Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 81%
+2024-09-27T19:10:36.353Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 82%
+2024-09-27T19:10:36.356Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 83%
+2024-09-27T19:10:36.360Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 84%
+2024-09-27T19:10:36.364Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 85%
+2024-09-27T19:10:36.369Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 86%
+2024-09-27T19:10:36.371Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 87%
+2024-09-27T19:10:36.375Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 88%
+2024-09-27T19:10:36.379Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 89%
+2024-09-27T19:10:36.381Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 90%
+2024-09-27T19:10:36.385Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 91%
+2024-09-27T19:10:36.387Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 92%
+2024-09-27T19:10:36.393Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 93%
+2024-09-27T19:10:36.394Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 94%
+2024-09-27T19:10:36.398Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 95%
+2024-09-27T19:10:36.404Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 96%
+2024-09-27T19:10:36.407Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 97%
+2024-09-27T19:10:36.410Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 98%
+2024-09-27T19:10:36.413Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 99%
+2024-09-27T19:10:36.418Z [Modules] Streaming discord_voice@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip: 100%
+2024-09-27T19:10:36.421Z [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+2024-09-27T19:10:36.421Z [Modules] Streaming discord_zstd@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip
+2024-09-27T19:10:36.542Z [Modules] Streaming discord_zstd@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 11%
+2024-09-27T19:10:36.543Z [Modules] Streaming discord_zstd@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 27%
+2024-09-27T19:10:36.544Z [Modules] Streaming discord_zstd@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 72%
+2024-09-27T19:10:36.545Z [Modules] Streaming discord_zstd@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 92%
+2024-09-27T19:10:36.546Z [Modules] Streaming discord_zstd@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip: 100%
+2024-09-27T19:10:36.548Z [Modules] Finished module downloads. [success: 6] [failure: 0]
+2024-09-27T19:10:36.549Z [Modules] Installing updates...
+2024-09-27T19:10:36.549Z [Modules] Installing discord_desktop_core@1 from /home/jasi/.config/discord/0.0.69/modules/pending/discord_desktop_core-1.zip
+2024-09-27T19:10:36.659Z [Modules] Installing discord_erlpack@1 from /home/jasi/.config/discord/0.0.69/modules/pending/discord_erlpack-1.zip
+2024-09-27T19:10:36.709Z [Modules] Installing discord_spellcheck@1 from /home/jasi/.config/discord/0.0.69/modules/pending/discord_spellcheck-1.zip
+2024-09-27T19:10:37.344Z [Modules] Installing discord_utils@1 from /home/jasi/.config/discord/0.0.69/modules/pending/discord_utils-1.zip
+2024-09-27T19:10:37.462Z [Modules] Installing discord_voice@1 from /home/jasi/.config/discord/0.0.69/modules/pending/discord_voice-1.zip
+2024-09-27T19:10:37.939Z [Modules] Installing discord_zstd@1 from /home/jasi/.config/discord/0.0.69/modules/pending/discord_zstd-1.zip
+2024-09-27T19:10:37.949Z [Modules] Finished module installations. [success: 6] [failure: 0]
+2024-09-27T19:10:37.949Z [Modules] Checking for host updates.
+2024-09-27T19:10:38.039Z [Modules] Host is up to date.
+2024-09-27T19:10:38.039Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T19:10:38.045Z [Modules] No module updates available.
+2024-09-27T19:10:39.094Z [Modules] Starting to install discord_krisp...
+2024-09-27T19:10:39.094Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2024-09-27T19:10:39.095Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip
+2024-09-27T19:10:39.100Z [Modules] Checking for host updates.
+2024-09-27T19:10:39.103Z [Modules] Starting to install discord_game_utils...
+2024-09-27T19:10:39.179Z [Modules] Host is up to date.
+2024-09-27T19:10:39.179Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T19:10:39.181Z [Modules] No module updates available.
+2024-09-27T19:10:39.206Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 1%
+2024-09-27T19:10:39.209Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 2%
+2024-09-27T19:10:39.217Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 3%
+2024-09-27T19:10:39.220Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 4%
+2024-09-27T19:10:39.226Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 5%
+2024-09-27T19:10:39.228Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 6%
+2024-09-27T19:10:39.231Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 7%
+2024-09-27T19:10:39.235Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 8%
+2024-09-27T19:10:39.238Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 9%
+2024-09-27T19:10:39.242Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 10%
+2024-09-27T19:10:39.245Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 11%
+2024-09-27T19:10:39.249Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 12%
+2024-09-27T19:10:39.252Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 13%
+2024-09-27T19:10:39.254Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 14%
+2024-09-27T19:10:39.260Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 15%
+2024-09-27T19:10:39.263Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 16%
+2024-09-27T19:10:39.266Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 17%
+2024-09-27T19:10:39.272Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 18%
+2024-09-27T19:10:39.278Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 19%
+2024-09-27T19:10:39.281Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 20%
+2024-09-27T19:10:39.284Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 21%
+2024-09-27T19:10:39.288Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 22%
+2024-09-27T19:10:39.291Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 23%
+2024-09-27T19:10:39.293Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 24%
+2024-09-27T19:10:39.296Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 25%
+2024-09-27T19:10:39.299Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 26%
+2024-09-27T19:10:39.302Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 27%
+2024-09-27T19:10:39.306Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 28%
+2024-09-27T19:10:39.308Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 29%
+2024-09-27T19:10:39.311Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 30%
+2024-09-27T19:10:39.315Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 31%
+2024-09-27T19:10:39.323Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 32%
+2024-09-27T19:10:39.325Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 33%
+2024-09-27T19:10:39.331Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 34%
+2024-09-27T19:10:39.334Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 35%
+2024-09-27T19:10:39.337Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 36%
+2024-09-27T19:10:39.341Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 37%
+2024-09-27T19:10:39.344Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 38%
+2024-09-27T19:10:39.411Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 39%
+2024-09-27T19:10:39.412Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 40%
+2024-09-27T19:10:39.413Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 41%
+2024-09-27T19:10:39.414Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 42%
+2024-09-27T19:10:39.415Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 43%
+2024-09-27T19:10:39.417Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 44%
+2024-09-27T19:10:39.418Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 46%
+2024-09-27T19:10:39.418Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 48%
+2024-09-27T19:10:39.419Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 50%
+2024-09-27T19:10:39.428Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 51%
+2024-09-27T19:10:39.428Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 52%
+2024-09-27T19:10:39.438Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 53%
+2024-09-27T19:10:39.442Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 54%
+2024-09-27T19:10:39.445Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 55%
+2024-09-27T19:10:39.448Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 56%
+2024-09-27T19:10:39.453Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 57%
+2024-09-27T19:10:39.456Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 58%
+2024-09-27T19:10:39.462Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 59%
+2024-09-27T19:10:39.468Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 60%
+2024-09-27T19:10:39.473Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 61%
+2024-09-27T19:10:39.478Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 62%
+2024-09-27T19:10:39.481Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 63%
+2024-09-27T19:10:39.484Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 64%
+2024-09-27T19:10:39.491Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 65%
+2024-09-27T19:10:39.493Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 66%
+2024-09-27T19:10:39.498Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 67%
+2024-09-27T19:10:39.501Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 68%
+2024-09-27T19:10:39.503Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 69%
+2024-09-27T19:10:39.509Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 70%
+2024-09-27T19:10:39.511Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 71%
+2024-09-27T19:10:39.518Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 72%
+2024-09-27T19:10:39.522Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 73%
+2024-09-27T19:10:39.530Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 74%
+2024-09-27T19:10:39.532Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 75%
+2024-09-27T19:10:39.536Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 76%
+2024-09-27T19:10:39.540Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 77%
+2024-09-27T19:10:39.542Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 78%
+2024-09-27T19:10:39.545Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 79%
+2024-09-27T19:10:39.550Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 80%
+2024-09-27T19:10:39.553Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 81%
+2024-09-27T19:10:39.556Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 82%
+2024-09-27T19:10:39.559Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 83%
+2024-09-27T19:10:39.563Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 84%
+2024-09-27T19:10:39.568Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 85%
+2024-09-27T19:10:39.570Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 86%
+2024-09-27T19:10:39.572Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 87%
+2024-09-27T19:10:39.580Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 88%
+2024-09-27T19:10:39.584Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 89%
+2024-09-27T19:10:39.586Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 90%
+2024-09-27T19:10:39.589Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 91%
+2024-09-27T19:10:39.593Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 92%
+2024-09-27T19:10:39.597Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 93%
+2024-09-27T19:10:39.598Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 94%
+2024-09-27T19:10:39.603Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 95%
+2024-09-27T19:10:39.607Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 96%
+2024-09-27T19:10:39.611Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 97%
+2024-09-27T19:10:39.614Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 98%
+2024-09-27T19:10:39.619Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 99%
+2024-09-27T19:10:39.619Z [Modules] Streaming discord_krisp@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip: 100%
+2024-09-27T19:10:39.620Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2024-09-27T19:10:39.620Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip
+2024-09-27T19:10:39.620Z [Modules] Installing discord_krisp@1 from /home/jasi/.config/discord/0.0.69/modules/pending/discord_krisp-1.zip
+2024-09-27T19:10:39.723Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 2%
+2024-09-27T19:10:39.724Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 6%
+2024-09-27T19:10:39.725Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 10%
+2024-09-27T19:10:39.726Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 12%
+2024-09-27T19:10:39.726Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 13%
+2024-09-27T19:10:39.727Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 14%
+2024-09-27T19:10:39.729Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 17%
+2024-09-27T19:10:39.730Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 18%
+2024-09-27T19:10:39.731Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 21%
+2024-09-27T19:10:39.732Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 24%
+2024-09-27T19:10:39.732Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 26%
+2024-09-27T19:10:39.735Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 32%
+2024-09-27T19:10:39.736Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 35%
+2024-09-27T19:10:39.738Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 37%
+2024-09-27T19:10:39.738Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 38%
+2024-09-27T19:10:39.740Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 40%
+2024-09-27T19:10:39.740Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 41%
+2024-09-27T19:10:39.740Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 44%
+2024-09-27T19:10:39.741Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 47%
+2024-09-27T19:10:39.742Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 50%
+2024-09-27T19:10:39.743Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 53%
+2024-09-27T19:10:39.744Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 56%
+2024-09-27T19:10:39.745Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 59%
+2024-09-27T19:10:39.746Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 62%
+2024-09-27T19:10:39.749Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 64%
+2024-09-27T19:10:39.750Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 65%
+2024-09-27T19:10:39.750Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 67%
+2024-09-27T19:10:39.750Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 68%
+2024-09-27T19:10:39.751Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 70%
+2024-09-27T19:10:39.751Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 71%
+2024-09-27T19:10:39.752Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 72%
+2024-09-27T19:10:39.753Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 75%
+2024-09-27T19:10:39.754Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 77%
+2024-09-27T19:10:39.754Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 80%
+2024-09-27T19:10:39.756Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 81%
+2024-09-27T19:10:39.761Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 83%
+2024-09-27T19:10:39.761Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 84%
+2024-09-27T19:10:39.761Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 86%
+2024-09-27T19:10:39.762Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 87%
+2024-09-27T19:10:39.762Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 89%
+2024-09-27T19:10:39.763Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 90%
+2024-09-27T19:10:39.763Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 93%
+2024-09-27T19:10:39.765Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 95%
+2024-09-27T19:10:39.765Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 96%
+2024-09-27T19:10:39.765Z [Modules] Streaming discord_game_utils@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip: 100%
+2024-09-27T19:10:39.766Z [Modules] Finished module downloads. [success: 2] [failure: 0]
+2024-09-27T19:10:40.095Z [Modules] Installing discord_game_utils@1 from /home/jasi/.config/discord/0.0.69/modules/pending/discord_game_utils-1.zip
+2024-09-27T19:10:40.175Z [Modules] Finished module installations. [success: 2] [failure: 0]
+2024-09-27T19:10:40.914Z [Modules] Starting to install discord_rpc...
+2024-09-27T19:10:40.914Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2024-09-27T19:10:40.914Z [Modules] Streaming discord_rpc@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_rpc-1.zip
+2024-09-27T19:10:41.163Z [Modules] Streaming discord_rpc@1 to /home/jasi/.config/discord/0.0.69/modules/pending/discord_rpc-1.zip: 100%
+2024-09-27T19:10:41.164Z [Modules] Finished module downloads. [success: 1] [failure: 0]
+2024-09-27T19:10:41.164Z [Modules] Installing discord_rpc@1 from /home/jasi/.config/discord/0.0.69/modules/pending/discord_rpc-1.zip
+2024-09-27T19:10:41.180Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-09-27T20:10:39.628Z [Modules] Checking for host updates.
+2024-09-27T20:10:39.918Z [Modules] Host is up to date.
+2024-09-27T20:10:39.918Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-09-27T20:10:40.018Z [Modules] No module updates available.

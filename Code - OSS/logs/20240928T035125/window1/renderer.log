@@ -1,0 +1,5 @@
+2024-09-28 03:51:28.694 [info] Started local extension host with pid 7867.
+2024-09-28 03:51:31.880 [info] [perf] Render performance baseline is 20ms
+2024-09-28 03:51:55.126 [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/etc/pacman.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/pacman.conf') file:///etc/pacman.conf
+2024-09-28 03:52:01.293 [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/etc/pacman.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/pacman.conf') file:///etc/pacman.conf
+2024-09-28 03:52:23.051 [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/etc/pacman.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/pacman.conf') file:///etc/pacman.conf

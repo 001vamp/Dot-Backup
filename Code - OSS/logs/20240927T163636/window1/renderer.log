@@ -1,0 +1,6 @@
+2024-09-27 16:36:39.074 [info] Started local extension host with pid 97094.
+2024-09-27 16:36:41.754 [info] [perf] Render performance baseline is 17ms
+2024-09-27 16:37:01.487 [warning] [backup tracker] suspended, ignoring unregister event file:///home/jasi/.config/discord/0.0.69/modules/discord_desktop_core/package.json 
+2024-09-27 16:37:01.487 [warning] [backup tracker] suspended, ignoring unregister event file:///home/jasi/oh-my-posh/website/api/package.json 
+2024-09-27 16:37:01.799 [info] Started local extension host with pid 97386.
+2024-09-27 16:37:04.433 [info] [perf] Render performance baseline is 26ms
