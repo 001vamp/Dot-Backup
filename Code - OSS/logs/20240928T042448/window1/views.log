@@ -10,3 +10,7 @@
 2024-09-28 04:24:51.834 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
 2024-09-28 04:24:52.052 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
 2024-09-28 04:24:52.068 [info] Added views:workbench.scm.history in workbench.view.scm
+2024-09-28 06:27:54.440 [info] View visibility state changed: workbench.explorer.openEditorsView is now visible Explorer
+2024-09-28 06:27:54.440 [info] Showing view workbench.explorer.openEditorsView in the container workbench.view.explorer
+2024-09-28 06:27:54.451 [info] Added views:workbench.explorer.openEditorsView in workbench.view.explorer
+2024-09-28 06:32:10.481 [info] Removed views:workbench.scm.history from workbench.view.scm

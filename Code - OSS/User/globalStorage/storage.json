@@ -13,11 +13,7 @@
     "telemetry.devDeviceId": "fc1805bb-3c3f-4d36-a5eb-f6adc8a7435f",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [
-            {
-                "folderUri": "file:///home/jasi"
-            }
-        ],
+        "folders": [],
         "emptyWindows": []
     },
     "lastKnownMenubarData": {
@@ -70,7 +66,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -785,7 +782,7 @@
                     {
                         "id": "editor.action.toggleWordWrap",
                         "label": "&&Word Wrap",
-                        "checked": true
+                        "enabled": false
                     }
                 ]
             },
@@ -802,7 +799,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1704,17 +1702,6 @@
         }
     },
     "windowsState": {
-        "lastActiveWindow": {
-            "folder": "file:///home/jasi",
-            "backupPath": "/home/jasi/.config/Code - OSS/Backups/8b26dbf953e070064fa67e75e1b99ba9",
-            "uiState": {
-                "mode": 0,
-                "x": 0,
-                "y": 0,
-                "width": 960,
-                "height": 1029
-            }
-        },
         "lastPluginDevelopmentHostWindow": {
             "uiState": {
                 "mode": 0,
@@ -1724,18 +1711,6 @@
                 "height": 514
             }
         },
-        "openedWindows": [
-            {
-                "folder": "file:///home/jasi",
-                "backupPath": "/home/jasi/.config/Code - OSS/Backups/8b26dbf953e070064fa67e75e1b99ba9",
-                "uiState": {
-                    "mode": 0,
-                    "x": 0,
-                    "y": 0,
-                    "width": 960,
-                    "height": 1029
-                }
-            }
-        ]
+        "openedWindows": []
     }
 }

@@ -1,0 +1,97 @@
+ss
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is ahead of 'origin/main' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   Code - OSS/CachedData/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/chrome/js/index-dir/the-real-index
+#	modified:   Code - OSS/DawnGraphiteCache/data_1
+#	modified:   Code - OSS/DawnWebGPUCache/data_1
+#	modified:   Code - OSS/GPUCache/data_0
+#	modified:   Code - OSS/GPUCache/data_1
+#	modified:   Code - OSS/GPUCache/data_2
+#	modified:   Code - OSS/GPUCache/index
+#	modified:   Code - OSS/Local Storage/leveldb/LOG
+#	modified:   Code - OSS/Local Storage/leveldb/LOG.old
+#	modified:   Code - OSS/Service Worker/Database/LOG
+#	modified:   Code - OSS/Service Worker/Database/LOG.old
+#	modified:   Code - OSS/Session Storage/000003.log
+#	modified:   Code - OSS/Session Storage/LOG
+#	modified:   Code - OSS/Session Storage/LOG.old
+#	new file:   Code - OSS/User/History/-1f9700d1/BRe6
+#	new file:   Code - OSS/User/History/-1f9700d1/entries.json
+#	new file:   Code - OSS/User/History/-1f9700d1/kC3S
+#	new file:   Code - OSS/User/History/-1f9700d1/qJrd
+#	new file:   Code - OSS/User/History/-519862fc/c2kx.md
+#	new file:   Code - OSS/User/History/-519862fc/entries.json
+#	new file:   Code - OSS/User/History/-519862fc/fvs8.md
+#	new file:   Code - OSS/User/History/-519862fc/uOng.md
+#	modified:   Code - OSS/User/globalStorage/state.vscdb
+#	modified:   Code - OSS/User/globalStorage/storage.json
+#	new file:   Code - OSS/User/workspaceStorage/ext-dev/state.vscdb
+#	modified:   Code - OSS/User/workspaceStorage/f7c973becd015232e2e5d4c9a26c5702/state.vscdb
+#	modified:   Code - OSS/logs/20240928T042448/main.log
+#	new file:   Code - OSS/logs/20240928T042448/ptyhost.log
+#	modified:   Code - OSS/logs/20240928T042448/remoteTunnelService.log
+#	modified:   Code - OSS/logs/20240928T042448/window1/exthost/exthost.log
+#	modified:   Code - OSS/logs/20240928T042448/window1/exthost/vscode.git/Git.log
+#	new file:   Code - OSS/logs/20240928T042448/window2/exthost/extensionTelemetry.log
+#	new file:   Code - OSS/logs/20240928T042448/window2/exthost/exthost.log
+#	new file:   Code - OSS/logs/20240928T042448/window2/exthost/vscode.git/Git.log
+#	new file:   Code - OSS/logs/20240928T042448/window2/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code - OSS/logs/20240928T042448/window2/exthost/vscode.github/GitHub.log
+#	new file:   Code - OSS/logs/20240928T042448/window2/network.log
+#	new file:   Code - OSS/logs/20240928T042448/window2/notebook.rendering.log
+#	new file:   Code - OSS/logs/20240928T042448/window2/output_20240928T061314/tasks.log
+#	new file:   Code - OSS/logs/20240928T042448/window2/renderer.log
+#	new file:   Code - OSS/logs/20240928T042448/window2/views.log
+#	new file:   Code - OSS/logs/20240928T042448/window3/exthost/extensionTelemetry.log
+#	new file:   Code - OSS/logs/20240928T042448/window3/exthost/exthost.log
+#	new file:   Code - OSS/logs/20240928T042448/window3/exthost/vscode.git/Git.log
+#	new file:   Code - OSS/logs/20240928T042448/window3/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code - OSS/logs/20240928T042448/window3/exthost/vscode.github/GitHub.log
+#	new file:   Code - OSS/logs/20240928T042448/window3/network.log
+#	new file:   Code - OSS/logs/20240928T042448/window3/notebook.rendering.log
+#	new file:   Code - OSS/logs/20240928T042448/window3/output_20240928T061953/tasks.log
+#	new file:   Code - OSS/logs/20240928T042448/window3/renderer.log
+#	new file:   Code - OSS/logs/20240928T042448/window3/views.log
+#	new file:   Code - OSS/logs/20240928T042448/window4/exthost/extensionTelemetry.log
+#	new file:   Code - OSS/logs/20240928T042448/window4/exthost/exthost.log
+#	new file:   Code - OSS/logs/20240928T042448/window4/exthost/vscode.git/Git.log
+#	new file:   Code - OSS/logs/20240928T042448/window4/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code - OSS/logs/20240928T042448/window4/exthost/vscode.github/GitHub.log
+#	new file:   Code - OSS/logs/20240928T042448/window4/network.log
+#	new file:   Code - OSS/logs/20240928T042448/window4/notebook.rendering.log
+#	new file:   Code - OSS/logs/20240928T042448/window4/output_20240928T062131/tasks.log
+#	new file:   Code - OSS/logs/20240928T042448/window4/renderer.log
+#	new file:   Code - OSS/logs/20240928T042448/window4/views.log
+#	new file:   Code - OSS/logs/20240928T042448/window5/exthost/extensionTelemetry.log
+#	new file:   Code - OSS/logs/20240928T042448/window5/exthost/exthost.log
+#	new file:   Code - OSS/logs/20240928T042448/window5/exthost/vscode.git/Git.log
+#	new file:   Code - OSS/logs/20240928T042448/window5/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code - OSS/logs/20240928T042448/window5/exthost/vscode.github/GitHub.log
+#	new file:   Code - OSS/logs/20240928T042448/window5/network.log
+#	new file:   Code - OSS/logs/20240928T042448/window5/notebook.rendering.log
+#	new file:   Code - OSS/logs/20240928T042448/window5/output_20240928T062321/tasks.log
+#	new file:   Code - OSS/logs/20240928T042448/window5/output_20240928T062446/tasks.log
+#	new file:   Code - OSS/logs/20240928T042448/window5/renderer.log
+#	new file:   Code - OSS/logs/20240928T042448/window5/views.log
+#	new file:   Code - OSS/logs/20240928T042448/window6/exthost/extensionTelemetry.log
+#	new file:   Code - OSS/logs/20240928T042448/window6/exthost/exthost.log
+#	new file:   Code - OSS/logs/20240928T042448/window6/exthost/vscode.git/Git.log
+#	new file:   Code - OSS/logs/20240928T042448/window6/exthost/vscode.github-authentication/GitHub Authentication.log
+#	new file:   Code - OSS/logs/20240928T042448/window6/exthost/vscode.github/GitHub.log
+#	new file:   Code - OSS/logs/20240928T042448/window6/network.log
+#	new file:   Code - OSS/logs/20240928T042448/window6/notebook.rendering.log
+#	new file:   Code - OSS/logs/20240928T042448/window6/output_20240928T062617/tasks.log
+#	new file:   Code - OSS/logs/20240928T042448/window6/renderer.log
+#	new file:   Code - OSS/logs/20240928T042448/window6/views.log
+#	modified:   dconf/user
+#
+# Changes not staged for commit:
+#	modified:   Code - OSS/logs/20240928T042448/window6/exthost/exthost.log
+#	modified:   Code - OSS/logs/20240928T042448/window6/exthost/vscode.git/Git.log
+#
