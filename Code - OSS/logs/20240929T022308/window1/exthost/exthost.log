@@ -1,0 +1,36 @@
+2024-09-29 02:23:11.399 [info] Extension host with pid 9556 started
+2024-09-29 02:23:11.400 [info] Skipping acquiring lock for /home/jasi/.config/Code - OSS/User/workspaceStorage/fbd030a75e0df05e35eb22f2599fa4cb.
+2024-09-29 02:23:11.445 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-29 02:23:11.467 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-29 02:23:11.546 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-29 02:23:11.594 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.openRepositoryInParentFolders', provide the URI of a resource or 'null' for any resource.
+2024-09-29 02:23:11.594 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.showProgress', provide the URI of a resource or 'null' for any resource.
+2024-09-29 02:23:11.604 [info] Eager extensions activated
+2024-09-29 02:23:11.614 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-29 02:23:11.616 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-29 02:23:17.001 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-29 02:23:17.021 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-29 02:23:17.075 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-29 02:23:17.129 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-29 02:23:26.817 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-09-29 02:23:27.333 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2024-09-29 02:32:57.017 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-09-29 02:32:59.512 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-09-29 02:35:06.408 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-29 02:35:06.414 [info] Extension host with pid 9556 exiting with code 0
+2024-09-29 02:35:07.472 [info] Extension host with pid 21405 started
+2024-09-29 02:35:07.472 [info] Skipping acquiring lock for /home/jasi/.config/Code - OSS/User/workspaceStorage/fbd030a75e0df05e35eb22f2599fa4cb.
+2024-09-29 02:35:07.499 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-09-29 02:35:07.514 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-29 02:35:07.524 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-29 02:35:07.570 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-09-29 02:35:07.785 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-29 02:35:07.797 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-29 02:35:07.841 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-29 02:35:07.883 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.openRepositoryInParentFolders', provide the URI of a resource or 'null' for any resource.
+2024-09-29 02:35:07.883 [warning] [vscode.git] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for 'git.showProgress', provide the URI of a resource or 'null' for any resource.
+2024-09-29 02:35:07.892 [info] Eager extensions activated
+2024-09-29 02:35:07.911 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-29 02:35:07.912 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-29 02:35:11.375 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-29 02:35:11.380 [info] Extension host with pid 21405 exiting with code 0

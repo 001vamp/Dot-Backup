@@ -1,0 +1,18 @@
+# -----------------------------------------------------
+# CUSTOMIZATION
+# -----------------------------------------------------
+
+# -----------------------------------------------------
+# Starship Prompt
+# -----------------------------------------------------
+eval "$(starship init bash)"
+
+export PURE_PROMPT_SYMBOL='❯'
+export PURE_PROMPT_VIRTUALENV_SHOW=true
+source "$(npm root --global)/pure-prompt/pure.zsh"
+
+# -----------------------------------------------------
+# Pywal
+# -----------------------------------------------------
+cat ~/.cache/wal/sequences
+#eval "$(oh-my-posh init bash --config /home/jasi/themes/clean-detailed.omp.json)"#

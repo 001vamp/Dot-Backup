@@ -66,7 +66,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -264,6 +265,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -780,8 +785,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "checked": true
+                        "label": "&&Word Wrap"
                     }
                 ]
             },
@@ -1303,6 +1307,11 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1683,24 +1692,35 @@
             }
         }
     },
-    "theme": "vs",
-    "themeBackground": "#ffffff",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
     "windowSplash": {
         "zoomLevel": 0,
-        "baseTheme": "vs",
+        "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#3b3b3b",
-            "background": "#ffffff",
-            "editorBackground": "#ffffff",
-            "titleBarBackground": "#f8f8f8",
-            "activityBarBackground": "#f8f8f8",
-            "sideBarBackground": "#f8f8f8",
-            "statusBarBackground": "#f8f8f8",
-            "statusBarNoFolderBackground": "#f8f8f8"
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
         }
     },
     "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/jasi/.config/hypr/conf",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 960,
+                "height": 514
+            }
+        },
         "lastPluginDevelopmentHostWindow": {
+            "folder": "file:///home/jasi/.config/hypr/conf",
             "uiState": {
                 "mode": 0,
                 "x": 0,

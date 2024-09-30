@@ -14,3 +14,17 @@
 2024-09-27T19:38:09.411Z 11: window.close win2
 2024-09-27T20:47:09.222Z 12: before-quit
 2024-09-27T20:47:09.234Z 13: window.close win2
+2024-09-30T18:44:05.648Z 0: 
+
+----------------------------------------------
+2024-09-30T18:44:05.923Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.69"}, modulepath: /home/jasi/.config/discord/0.0.69/modules
+2024-09-30T18:44:06.198Z 2: ✅ webContents.created web1 ""
+2024-09-30T18:44:06.301Z 3: ✅ window.created win1 "discord"
+2024-09-30T18:44:06.814Z 4: ✅ webContents.did-finish-load web1
+2024-09-30T18:44:08.000Z 5: ✅ webContents.created web2 ""
+2024-09-30T18:44:08.006Z 6: ✅ window.created win2 "Discord"
+2024-09-30T18:44:11.595Z 7: ✅ webContents.did-finish-load web2
+2024-09-30T18:44:11.697Z 8: window.close win1
+2024-09-30T18:44:11.710Z 9: webContents.destroyed web1
+2024-09-30T18:44:11.713Z 10: window.closed win1
+2024-09-30T18:45:42.384Z 11: window.close win2

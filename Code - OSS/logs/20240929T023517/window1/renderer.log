@@ -1,0 +1,17 @@
+2024-09-29 02:35:17.982 [info] Started local extension host with pid 21676.
+2024-09-29 02:35:18.251 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-09-29 02:35:20.656 [info] [perf] Render performance baseline is 24ms
+2024-09-29 02:41:44.901 [info] Started local extension host with pid 26675.
+2024-09-29 02:41:45.511 [info] Started local extension host with pid 26731.
+2024-09-29 02:41:45.692 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-09-29 02:41:47.775 [info] Started local extension host with pid 26915.
+2024-09-29 02:41:47.976 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-09-29 02:41:50.427 [info] [perf] Render performance baseline is 27ms
+2024-09-29 02:41:52.967 [info] Started local extension host with pid 27166.
+2024-09-29 02:41:53.196 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-09-29 02:41:53.808 [info] Started local extension host with pid 27268.
+2024-09-29 02:41:54.093 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-09-29 02:41:56.511 [info] [perf] Render performance baseline is 17ms
+2024-09-29 02:42:12.223 [info] Started local extension host with pid 28375.
+2024-09-29 02:42:12.409 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-09-29 02:42:14.872 [info] [perf] Render performance baseline is 17ms

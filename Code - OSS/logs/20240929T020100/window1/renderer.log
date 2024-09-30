@@ -1,0 +1,9 @@
+2024-09-29 02:01:01.429 [info] Started local extension host with pid 36983.
+2024-09-29 02:01:01.613 [error] Error scanning extensions at /$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1: Unable to resolve nonexistent file '/$HOME/.vscode-oss/extensions/undefined_publisher.wallbash-0.0.1'
+2024-09-29 02:01:04.050 [info] [perf] Render performance baseline is 19ms
+2024-09-29 02:06:17.537 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at K.getLineMaxColumn (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:769:160)
+    at V.getBottomForLineNumber (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:782:1682)
+    at I.findScrollWidgetState (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:808:13719)
+    at I.cb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:808:12947)
+    at async I.ab (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:808:12429)

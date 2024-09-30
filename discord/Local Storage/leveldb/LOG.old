@@ -1,0 +1,5 @@
+2024/09/27-15:10:32.253 34a6 Creating DB /home/jasi/.config/discord/Local Storage/leveldb since it was missing.
+2024/09/27-15:10:32.376 34a6 Reusing MANIFEST /home/jasi/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/09/27-15:14:50.005 34a6 Level-0 table #5: started
+2024/09/27-15:14:50.105 34a6 Level-0 table #5: 3260047 bytes OK
+2024/09/27-15:14:50.109 34a6 Delete type=0 #3
