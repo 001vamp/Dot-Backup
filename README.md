@@ -7,6 +7,10 @@ ZZZzz /,`.-'`'    -.\  ;-;;,_
 
 <pre>
 
+Hello! x.x
+
+This repo is just a back up of my dot files - /.config folder. Hopefully i maintain this
+
             *     ,MMM8&&&.            *
                   MMMM88&&&&&    .
                  MMMM88&&&&&&&
@@ -32,6 +36,4 @@ ZZZzz /,`.-'`'    -.\  ;-;;,_
 
 
 
-Hello! x.x
 
-This repo is just a back up of my dot files - /.config folder. Hopefully i maintain this
